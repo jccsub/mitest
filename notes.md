@@ -48,4 +48,6 @@
 1. Go to start a project
 1. then name the repository (the same as the name of your folder)
 1. Press enter 
+1. do the steps to push an existing repository
+
 
